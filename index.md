@@ -10,7 +10,7 @@ All scanning happens **on your phone**. Nothing is uploaded.
 
 ## Contact
 
-**Email:** interzone23@mac.com <!-- REPLACE with your alias address -->
+**Email:** Contact email To Be Determined Prior to App Store release
 
 It's one person answering, so please allow a couple of days. If you're
 reporting a date that was read wrong, the fastest thing you can do is use the

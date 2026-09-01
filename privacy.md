@@ -173,7 +173,7 @@ that you know the direction of travel rather than finding out from a changelog.
 
 ## Contact
 
-**Email:** support@example.com <!-- REPLACE with your alias address -->
+**Email:** Support email To Be Determined after beta testing and prior to release
 
 ---
 
