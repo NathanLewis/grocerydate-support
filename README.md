@@ -2,8 +2,8 @@
 
 Support and privacy documentation for the GroceryDate iOS and Android app.
 
-- [Support](https://USER.github.io/grocerydate-support/)
-- [Privacy Policy](https://USER.github.io/grocerydate-support/privacy.html)
+- [Support](https://nathanlewis.github.io/grocerydate-support/)
+- [Privacy Policy](https://nathanlewis.github.io/grocerydate-support/privacy.html)
 
 Copyright 2026 Nathan Lewis. All rights reserved.
 
